@@ -1,0 +1,5 @@
+# Ignore all directories in the root
+/*/
+
+# Except the scripts directory
+!Eastern_Desert_Elevation/
