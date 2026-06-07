@@ -1,8 +1,8 @@
 # Marsa Matruh & Qattara Depression — Elevation & Land Use Analysis
 
-![Project Image](Images/01.png)
+![Project Image](01.png)
 
-![Tracking Example](Images/03.png)
+![Tracking Example](03.png)
 
 
 Identifies the **highest and lowest elevation points** in Marsa Matruh Governorate (including the Qattara Depression) using Google Earth Engine.
